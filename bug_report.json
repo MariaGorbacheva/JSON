@@ -1,7 +1,7 @@
 {
   "Bug_ID": 1
   "Bug_summary": "Colour of the nnegative number is green",
-  "Steps_to_reproduse": "Choose "Short" on the radio button to make number of the area [Profit/Loss] under the graph negative",
+  "Steps_to_reproduse": "Choose [Short] on the radio button to make number of the area [Profit/Loss] under the graph negative",
   "ER": "The number is red",
   "AR": "The number is green",
   "Assigned to": "Developer's name",
